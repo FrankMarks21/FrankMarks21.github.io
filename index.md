@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Happness is...
 
-You can use the [editor on GitHub](https://github.com/FrankMarks21/FrankMarks21.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Bringing ideas to life in an app or website is extremely satisfying. Those first steps can be overwelming and stop a great idea in it's tracks. Here's where I play a part. My skills in coding and design, will get you past those first steps and set you running. With this new momentum, you can show the world your app, your idea, your passion. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
