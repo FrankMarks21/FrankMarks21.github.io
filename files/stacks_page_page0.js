@@ -1800,6 +1800,21 @@ var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
 });
 
 return stack;})(stacks.stacks_in_114);
+stacks.stacks_in_207 = {};
+stacks.stacks_in_207 = (function(stack) {
+var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
+		$('#stacks_in_207 > .foundry-angle').parentsUntil('.stacks_top').css({'overflow' : 'visible'});
+		$('.stacks_top').css({'overflow' : 'visible'});
+});
+
+return stack;})(stacks.stacks_in_207);
+stacks.stacks_in_236 = {};
+stacks.stacks_in_236 = (function(stack) {
+var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
+
+});
+
+return stack;})(stacks.stacks_in_236);
 stacks.stacks_in_159 = {};
 stacks.stacks_in_159 = (function(stack) {
 var jQuery = stacks.jQuery;var $ = jQuery;$(window).load(function(){
