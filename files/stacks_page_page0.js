@@ -1064,7 +1064,11 @@ document.documentElement.lang = "en";
 
 $(document).ready(function(){
   
+    $('body').addClass('foundry-typeface-two');
+  
 
+  
+    $('body').addClass('foundry-typeface-one-page-wide-headers');
   
 });
 
@@ -1169,8 +1173,14 @@ $.fn.elementRealHeight = function () {
   // })(window.document, window.history, window.location);
 
 return stack;})(stacks.stacks_in_4);
-stacks.stacks_in_2 = {};
-stacks.stacks_in_2 = (function(stack) {
+stacks.stacks_in_8 = {};
+stacks.stacks_in_8 = (function(stack) {
+var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
+});
+
+return stack;})(stacks.stacks_in_8);
+stacks.stacks_in_126 = {};
+stacks.stacks_in_126 = (function(stack) {
 var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
 
 
@@ -1181,7 +1191,7 @@ var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
 
 	// Load parallax effect
 	
-		$('#stacks_in_2 .banner').jarallax({
+		$('#stacks_in_126 .banner').jarallax({
 			speed: 0.50,
 			type: 'scroll',
 			
@@ -1194,13 +1204,29 @@ var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
 // $(window).load(function(){
 // });
 
-return stack;})(stacks.stacks_in_2);
-stacks.stacks_in_5 = {};
-stacks.stacks_in_5 = (function(stack) {
+return stack;})(stacks.stacks_in_126);
+stacks.stacks_in_128 = {};
+stacks.stacks_in_128 = (function(stack) {
 var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
-	$('#stacks_in_5 h2').parentsUntil('.stacks_top').css('overflow', 'visible');	
+	$('#stacks_in_128 h1').parentsUntil('.stacks_top').css('overflow', 'visible');	
 });
 
 
 
-return stack;})(stacks.stacks_in_5);
+return stack;})(stacks.stacks_in_128);
+stacks.stacks_in_131 = {};
+stacks.stacks_in_131 = (function(stack) {
+var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
+	$('#stacks_in_131 h4').parentsUntil('.stacks_top').css('overflow', 'visible');	
+});
+
+
+
+return stack;})(stacks.stacks_in_131);
+stacks.stacks_in_114 = {};
+stacks.stacks_in_114 = (function(stack) {
+var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
+  $('#stacks_in_114 *').removeClass('stacks_out').removeClass('stacks_in');
+});
+
+return stack;})(stacks.stacks_in_114);
