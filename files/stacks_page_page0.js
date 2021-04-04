@@ -1840,7 +1840,7 @@ var jQuery = stacks.jQuery;var $ = jQuery;$(window).load(function(){
     collapsableContent.slideToggle(250);
     expandButton.toggleClass('open-section');
 
-    colText = 'colapse';
+    colText = 'collapse';
     expText = 'read more...';
     
 
@@ -1882,7 +1882,7 @@ var jQuery = stacks.jQuery;var $ = jQuery;$(window).load(function(){
     collapsableContent.slideToggle(250);
     expandButton.toggleClass('open-section');
 
-    colText = 'colapse';
+    colText = 'collapse';
     expText = 'read more...';
     
 
@@ -1924,7 +1924,7 @@ var jQuery = stacks.jQuery;var $ = jQuery;$(window).load(function(){
     collapsableContent.slideToggle(250);
     expandButton.toggleClass('open-section');
 
-    colText = 'colapse';
+    colText = 'collapse';
     expText = 'read more...';
     
 

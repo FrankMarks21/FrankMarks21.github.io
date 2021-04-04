@@ -6012,7 +6012,7 @@ h6.foundry-typeface-two {
 
 #stacks_in_207 .foundry-angle {
 	
-		background-color: rgba(251, 251, 251, 1.00);
+		background-color: rgba(245, 245, 245, 1.00);
 	
 
 	
@@ -6385,8 +6385,8 @@ h6.foundry-typeface-two {
 
 
 	
-	#stacks_in_176 p,
-	#stacks_in_176 {
+	#stacks_in_258 p,
+	#stacks_in_258 {
 		
 	}
 	
@@ -6399,11 +6399,16 @@ h6.foundry-typeface-two {
 
 
 
-#stacks_in_176 p,
-#stacks_in_176 {
+#stacks_in_258 p,
+#stacks_in_258 {
 	
 }
 
+
+#stacks_in_258 {
+	background-color: rgba(247, 247, 247, 1.00);
+	padding:  8px;
+}
 
 
 
@@ -6694,8 +6699,8 @@ h6.foundry-typeface-two {
 
 
 	
-	#stacks_in_179 p,
-	#stacks_in_179 {
+	#stacks_in_260 p,
+	#stacks_in_260 {
 		
 	}
 	
@@ -6708,11 +6713,16 @@ h6.foundry-typeface-two {
 
 
 
-#stacks_in_179 p,
-#stacks_in_179 {
+#stacks_in_260 p,
+#stacks_in_260 {
 	
 }
 
+
+#stacks_in_260 {
+	background-color: rgba(247, 247, 247, 1.00);
+	padding:  8px;
+}
 
 
 
@@ -7003,8 +7013,8 @@ h6.foundry-typeface-two {
 
 
 	
-	#stacks_in_192 p,
-	#stacks_in_192 {
+	#stacks_in_262 p,
+	#stacks_in_262 {
 		
 	}
 	
@@ -7017,11 +7027,16 @@ h6.foundry-typeface-two {
 
 
 
-#stacks_in_192 p,
-#stacks_in_192 {
+#stacks_in_262 p,
+#stacks_in_262 {
 	
 }
 
+
+#stacks_in_262 {
+	background-color: rgba(247, 247, 247, 1.00);
+	padding:  8px;
+}
 
 .spacerStack {
 	height: 60.00px;
@@ -7052,6 +7067,114 @@ h6.foundry-typeface-two {
 
 @media print {
 	#spacerStackstacks_in_168 {
+		display: none !important;
+	}
+}
+
+
+#stacks_in_252 h3 {
+	
+		font-weight: 400;
+	
+	font-style: normal;
+
+	
+	
+	letter-spacing: 0px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+#stacks_in_252 a.foundry-header-linked,
+#stacks_in_252 a.foundry-header-linked:visited {
+	color: rgba(3, 118, 216, 1.00);
+	cursor: pointer;
+	text-decoration: none;
+}
+
+#stacks_in_252 a.foundry-header-linked:hover,
+#stacks_in_252 a.foundry-header-linked:active {
+	color: rgba(5, 116, 216, 1.00);
+	text-decoration: none;
+}
+
+#stacks_out_252 {
+	width: 50%;
+}
+
+
+
+/* Color picker style settings */
+
+
+
+
+
+
+
+	
+	#stacks_in_255 p,
+	#stacks_in_255 {
+		
+	}
+	
+
+	
+	
+	
+	
+	
+
+
+
+#stacks_in_255 p,
+#stacks_in_255 {
+	
+}
+
+
+#stacks_out_255 {
+	width: 50%;
+}
+
+.spacerStack {
+	height: 60.00px;
+}
+
+#spacerStackstacks_in_254 {
+	height: 60.00px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media print {
+	#spacerStackstacks_in_254 {
 		display: none !important;
 	}
 }
@@ -7111,11 +7234,11 @@ h6.foundry-typeface-two {
 }
 
 .spacerStack {
-	height: 20.00px;
+	height: 30.00px;
 }
 
 #spacerStackstacks_in_169 {
-	height: 20.00px;
+	height: 30.00px;
 }
 
 
