@@ -7233,6 +7233,84 @@ h6.foundry-typeface-two {
 	
 }
 
+
+
+#stacks_in_264 ul.social_badges_container {
+	list-style: none;
+	font-size: 0;
+	padding: 0;
+	margin: 0;
+}
+
+#stacks_in_264 ul.social_badges_container li {
+	display: inline-block;
+	overflow: hidden;
+	margin-left: 2.50px;
+	margin-right: 2.50px;
+}
+
+#stacks_in_264 ul.social_badges_container li,
+#stacks_in_264 ul.social_badges_container li a,
+#stacks_in_264 ul.social_badges_container li a i {
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+}
+
+#stacks_in_264 ul.social_badges_container li a {
+	text-align: center;
+	display: block;
+	font-size: 20px;
+}
+
+
+	#stacks_in_264 ul.social_badges_container li a {
+		border-radius: 50%;
+	}
+
+
+#stacks_in_264 {
+	margin: 20px 0px 0px 0px;
+}
+
+#stacks_out_264 {
+	margin-right:0;
+}
+
+
+
+	li.stacks_in_268_individual_badge a,
+	li.stacks_in_268_individual_badge a:visited {
+		background-color: rgba(17, 41, 66, 1.00);
+		color: rgba(211, 212, 211, 1.00);
+	}
+
+	li.stacks_in_268_individual_badge a:hover,
+	li.stacks_in_268_individual_badge a:active {
+		background-color: rgba(24, 80, 139, 1.00);
+		color: rgba(211, 212, 211, 1.00);
+	}
+
+
+
+
+
+
+	li.stacks_in_274_individual_badge a,
+	li.stacks_in_274_individual_badge a:visited {
+		background-color: rgba(17, 41, 66, 1.00);
+		color: rgba(211, 212, 211, 1.00);
+	}
+
+	li.stacks_in_274_individual_badge a:hover,
+	li.stacks_in_274_individual_badge a:active {
+		background-color: rgba(24, 80, 139, 1.00);
+		color: rgba(211, 212, 211, 1.00);
+	}
+
+
+
+
 .spacerStack {
 	height: 30.00px;
 }
