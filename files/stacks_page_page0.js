@@ -1598,27 +1598,6 @@ a)return c;if(1==(a/=d))return c+b;f||(f=.3*d);g<Math.abs(b)?(g=b,e=f/4):e=f/(2*
 f&&(f=1.70158);return b*(a/=d)*a*((f+1)*a-f)+c},easeOutBack:function(e,a,c,b,d,f){void 0==f&&(f=1.70158);return b*((a=a/d-1)*a*((f+1)*a+f)+1)+c},easeInOutBack:function(e,a,c,b,d,f){void 0==f&&(f=1.70158);return 1>(a/=d/2)?b/2*a*a*(((f*=1.525)+1)*a-f)+c:b/2*((a-=2)*a*(((f*=1.525)+1)*a+f)+2)+c},easeInBounce:function(e,a,c,b,d){return b-h.easing.easeOutBounce(e,d-a,0,b,d)+c},easeOutBounce:function(e,a,c,b,d){return(a/=d)<1/2.75?7.5625*b*a*a+c:a<2/2.75?b*(7.5625*(a-=1.5/2.75)*a+.75)+c:a<2.5/2.75?b*(7.5625*
 (a-=2.25/2.75)*a+.9375)+c:b*(7.5625*(a-=2.625/2.75)*a+.984375)+c},easeInOutBounce:function(e,a,c,b,d){return a<d/2?.5*h.easing.easeInBounce(e,2*a,0,b,d)+c:.5*h.easing.easeOutBounce(e,2*a-d,0,b,d)+.5*b+c}})})(jQuery);
 return stack;})(stacks.com_elixir_stacks_foundryBanner);
-stacks.com_elixir_stacks_foundryReveal = {};
-stacks.com_elixir_stacks_foundryReveal = (function(stack) {
-var jQuery = stacks.jQuery;var $ = jQuery;var wow = new WOW(
-  {
-    boxClass:     'foundry_reveal',      // animated element css class (default is wow)
-    animateClass: 'animated', // animation css class (default is animated)
-    offset:       100,          // distance to the element when triggering the animation (default is 0)
-    
-    mobile:       false,       // trigger animations on mobile devices (default is true)
-    
-    live:         true,       // act on asynchronously loaded content (default is true)
-    callback:     function(box) {
-      // the callback is fired every time an animation is started
-      // the argument that is passed in is the DOM node being animated
-    },
-    scrollContainer: null // optional scroll container selector, otherwise use window
-  }
-);
-wow.init();
-
-return stack;})(stacks.com_elixir_stacks_foundryReveal);
 stacks.stacks_in_4 = {};
 stacks.stacks_in_4 = (function(stack) {
 var jQuery = stacks.jQuery;var $ = jQuery;// Set Language for Document
@@ -1743,7 +1722,19 @@ var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
 return stack;})(stacks.stacks_in_8);
 stacks.stacks_in_189 = {};
 stacks.stacks_in_189 = (function(stack) {
-var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
+var jQuery = stacks.jQuery;var $ = jQuery;var wow = new WOW(
+  {
+    boxClass:     'stacks_in_189_foundry_reveal',      // animated element css class (default is wow)
+    animateClass: 'animated', // animation css class (default is animated)
+    offset:       100,          // distance to the element when triggering the animation (default is 0)
+    
+    mobile:       false,       // trigger animations on mobile devices (default is true)
+    
+  }
+);
+wow.init();
+
+$(document).ready(function(){
 	$('#stacks_in_189 .foundry_reveal').parentsUntil('.stacks_top').css({'overflow' : 'visible'});
 	$('.stacks_top').css({'overflow' : 'visible'});
 });
@@ -1752,6 +1743,7 @@ return stack;})(stacks.stacks_in_189);
 stacks.stacks_in_126 = {};
 stacks.stacks_in_126 = (function(stack) {
 var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
+
 
 
 

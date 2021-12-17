@@ -3660,7 +3660,7 @@ input.btn-block[type="button"] {
   background-color: white;
   border: 1px solid #dddddd; }
   .page-link:focus, .page-link:hover {
-    color: #17518a;
+    color: #17518b;
     background-color: #eceeef;
     border-color: #dddddd; }
 
@@ -5224,7 +5224,7 @@ ul.lz-menu {
   h6 {
     font-size: 18px; } }
 
-@media (min-width: 48em) and (max-width: 61.9em) {
+@media (min-width: 48em) and (max-width: 61.9375em) {
   /* Desktop */
   h1 {
     font-size: 64px; }
@@ -5276,6 +5276,9 @@ ul.lz-menu {
 
 .foundry-site-background {
   fill: #fff; }
+
+.fdy-drop-zone {
+  line-height: 1; }
 
 .foundry-typeface-one {
   font-family: 'Lexend', sans-serif;
@@ -5485,17 +5488,17 @@ h6.foundry-typeface-two {
 	}
 }
 
-@media (min-width: 48em) and (max-width: 61.9em) {
+@media (min-width: 48em) and (max-width: 61.9375em) {
 	/*Medium*/
 	#stacks_in_126_scroll_button {
 		bottom: 70px;
 	}
 }
 
-@media (min-width: 62em) and (max-width: 74.9em) {
+@media (min-width: 62em) {
 	/*Large*/
 	#stacks_in_126_scroll_button {
-		bottom: 70px;
+		bottom: 30px;
 	}
 }
 
@@ -6149,9 +6152,9 @@ h6.foundry-typeface-two {
 		left: 0;
 		width: 100%;
 		height: 100%;
-		background: -moz-linear-gradient(45deg, rgba(57, 59, 59, 0.40) 25%, rgba(211, 212, 211, 0.25) 100%);
-		background: -webkit-linear-gradient(45deg, rgba(57, 59, 59, 0.40) 25%,rgba(211, 212, 211, 0.25) 100%);
-		background: linear-gradient(45deg, rgba(57, 59, 59, 0.40) 25%,rgba(211, 212, 211, 0.25) 100%);
+		background: -moz-linear-gradient(45deg, rgba(57, 59, 59, 0.40) 25%, rgba(212, 212, 212, 0.25) 100%);
+		background: -webkit-linear-gradient(45deg, rgba(57, 59, 59, 0.40) 25%,rgba(212, 212, 212, 0.25) 100%);
+		background: linear-gradient(45deg, rgba(57, 59, 59, 0.40) 25%,rgba(212, 212, 212, 0.25) 100%);
 	}
 	
 
@@ -6463,9 +6466,9 @@ h6.foundry-typeface-two {
 		left: 0;
 		width: 100%;
 		height: 100%;
-		background: -moz-linear-gradient(45deg, rgba(57, 59, 59, 0.40) 25%, rgba(211, 212, 211, 0.25) 100%);
-		background: -webkit-linear-gradient(45deg, rgba(57, 59, 59, 0.40) 25%,rgba(211, 212, 211, 0.25) 100%);
-		background: linear-gradient(45deg, rgba(57, 59, 59, 0.40) 25%,rgba(211, 212, 211, 0.25) 100%);
+		background: -moz-linear-gradient(45deg, rgba(57, 59, 59, 0.40) 25%, rgba(212, 212, 212, 0.25) 100%);
+		background: -webkit-linear-gradient(45deg, rgba(57, 59, 59, 0.40) 25%,rgba(212, 212, 212, 0.25) 100%);
+		background: linear-gradient(45deg, rgba(57, 59, 59, 0.40) 25%,rgba(212, 212, 212, 0.25) 100%);
 	}
 	
 
@@ -6777,9 +6780,9 @@ h6.foundry-typeface-two {
 		left: 0;
 		width: 100%;
 		height: 100%;
-		background: -moz-linear-gradient(45deg, rgba(57, 59, 59, 0.40) 25%, rgba(211, 212, 211, 0.25) 100%);
-		background: -webkit-linear-gradient(45deg, rgba(57, 59, 59, 0.40) 25%,rgba(211, 212, 211, 0.25) 100%);
-		background: linear-gradient(45deg, rgba(57, 59, 59, 0.40) 25%,rgba(211, 212, 211, 0.25) 100%);
+		background: -moz-linear-gradient(45deg, rgba(57, 59, 59, 0.40) 25%, rgba(212, 212, 212, 0.25) 100%);
+		background: -webkit-linear-gradient(45deg, rgba(57, 59, 59, 0.40) 25%,rgba(212, 212, 212, 0.25) 100%);
+		background: linear-gradient(45deg, rgba(57, 59, 59, 0.40) 25%,rgba(212, 212, 212, 0.25) 100%);
 	}
 	
 
@@ -7212,7 +7215,7 @@ h6.foundry-typeface-two {
 	}
 }
 
-@media (min-width: 48em) and (max-width: 61.9em) {
+@media (min-width: 48em) and (max-width: 61.9375em) {
 	/* Tablet */
 	#stacks_in_144 .btn {
 		
@@ -7282,13 +7285,13 @@ h6.foundry-typeface-two {
 	li.stacks_in_268_individual_badge a,
 	li.stacks_in_268_individual_badge a:visited {
 		background-color: rgba(17, 41, 66, 1.00);
-		color: rgba(211, 212, 211, 1.00);
+		color: rgba(212, 212, 212, 1.00);
 	}
 
 	li.stacks_in_268_individual_badge a:hover,
 	li.stacks_in_268_individual_badge a:active {
 		background-color: rgba(24, 80, 139, 1.00);
-		color: rgba(211, 212, 211, 1.00);
+		color: rgba(212, 212, 212, 1.00);
 	}
 
 
@@ -7299,13 +7302,13 @@ h6.foundry-typeface-two {
 	li.stacks_in_274_individual_badge a,
 	li.stacks_in_274_individual_badge a:visited {
 		background-color: rgba(17, 41, 66, 1.00);
-		color: rgba(211, 212, 211, 1.00);
+		color: rgba(212, 212, 212, 1.00);
 	}
 
 	li.stacks_in_274_individual_badge a:hover,
 	li.stacks_in_274_individual_badge a:active {
 		background-color: rgba(24, 80, 139, 1.00);
-		color: rgba(211, 212, 211, 1.00);
+		color: rgba(212, 212, 212, 1.00);
 	}
 
 
